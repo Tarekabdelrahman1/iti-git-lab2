@@ -69,15 +69,13 @@ Annotated tags were used to mark the completion of the lab.
 
 ---
 
-## 5. Lab Architecture Image
-The following diagram represents the workflow used during this lab:
+## 7. Lab Architecture Image
+The following diagram represents the workflow and branching strategy used during this lab.
 
-![Git Workflow Diagram](./images/image.png)
+* **Add Image to README**: 
+    ```markdown
+    ![Git Workflow Diagram](./images/image.png)
+    ```
 
 
----
 
-## 9. Ignoring Files (.gitignore)
-The project is configured to ignore the following files:
-* `cache/`
-* `*.log`
