@@ -76,8 +76,7 @@ The following diagram represents the workflow and branching strategy used during
     ```markdown
     ![Git Workflow Diagram](./images/image.png)
     ```
-
-<img width="474" height="210" alt="image" src="https://github.com/user-attachments/assets/e9c9a9ba-029f-4404-bab5-d944642fc864" />
+![Git Workflow Diagram](./vmware_logo.png)
 
 
 
